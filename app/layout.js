@@ -4,7 +4,7 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Passwordify - Simplify Security with Passwordify',
+  title: 'Passwordify - Simplify Strong Security with Passwordify',
   description: 'Passwordify: Your Simple Solution for Secure Passwords. Effortlessly generate strong, secure passwords with ease. Discover the simplicity of better online security.',
 }
 
